@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = halima.lamliji@ymail.com
+	name = Halima Lamliji
